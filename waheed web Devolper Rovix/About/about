@@ -1,0 +1,88 @@
+<!htmptype>
+<html>
+  <head>
+    <title>Waheed Developer Rovix Services</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="Index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="store.html">Store</a></li>
+        </ul>
+      </nav>
+      <hr />
+      <h1>Waheed Developer Rovix</h1>
+    </header>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        Waheed Developer Rovix is a software developer with a focus on creating
+        innovative solutions within the tech industry. Known professionally by
+        his handle "Rovix," Waheed specializes in [mention a field like backend
+        development, mobile apps, or web design], contributing to various
+        projects that streamline processes and enhance user experiences. His
+        work is characterized by [mention a quality like attention to detail,
+        problem-solving skills, or collaborative approach], making him a
+        valuable asset to his development teams. In his spare time, Waheed
+        likely keeps up with the latest in [mention a hobby or tech trend like
+        open-source projects or AI developments], reflecting a continuous
+        passion for growth and learning in the ever-evolving world of
+        technology.
+      </p>
+      <img
+        src="Images\waheed Develper Rovix.jpg"
+        alt="waheed Develper Rovix"
+        width="400px"
+        height="600px"
+        style="
+          background-color: rgb(25, 221, 35);
+          border: 5px solid black;
+          border-radius: 10px;
+          box-shadow: 10px 10px 5px grey;
+        "
+      />
+      <p>
+        Waheed Developer Rovix is a dedicated software developer known for his
+        expertise in creating efficient and user-friendly applications. With a
+        strong background in [specific programming languages or technologies],
+        he has contributed to numerous successful projects that have positively
+        impacted users and businesses alike. Waheed's commitment to staying
+        updated with the latest industry trends ensures that his solutions are
+        both innovative and effective. Outside of his professional work, he
+        enjoys [mention hobbies or interests], which further fuels his
+        creativity and problem-solving skills in the tech world.
+      </p>
+    </section>
+    <script>
+    //   console.log("Welcome to Waheed Developer Rovix's About Page!");
+    //   console.error("this is a sample erroe showing message for pratice");
+    // console.warn("this is a sample wanrning notification for pratice not worrried about it");
+    // console.dir(document);
+    // console.log(document.URL);
+    // console.table([{name:'waheed',age:25,profession:'developer'}]);
+    // console.clear();
+    // console.group("abouth the waheed developer rovix");
+    // console.log("waheed top 1");
+    // console.log("waheed top2");
+    // console.log("waheed top3");
+    // console.log("waheed top4");
+    // console.groupend("hello end of the waheeed developer Rovix");
+    // console.time("for loop");
+    // for (let i=0; i<2000; i++)
+    // {
+    //     console.log(i);
+    // }
+    // console.timeEnd("for loop");
+    function greaterThan(a, b) {
+      console.assert(a > b, {"message":"the a is not greater than b", "a":a, "b":b});
+    }
+    greaterThan(4,5);
+    </script>
+
+   
+  </body>
+</html>

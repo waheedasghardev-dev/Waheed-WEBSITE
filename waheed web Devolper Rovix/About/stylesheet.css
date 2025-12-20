@@ -1,0 +1,39 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fixed Layout</title>
+    <style>
+     body {
+       font-family: Helvetica, Arial, sans-serif;
+       margin: 0; /* Removes default browser margins */
+       padding: 0;
+       background-color: #f4f4f4;
+     }
+     header {
+       background-color: #4CAF50;
+       color: white;
+       text-align: center;
+       padding: 20px 0;
+       width: 100%;
+     }
+     main {
+       padding: 20px; /* Moves content padding here so header stays full-width */
+     }
+     h1 {
+       color: #333;
+     }
+     p {
+       color: #333; /* Darkened for better readability */
+     }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Site</h1>
+    </header>
+    <main>
+        <p>This is where your content goes.</p>
+    </main>
+</body>
+</html>
