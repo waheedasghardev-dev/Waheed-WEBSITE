@@ -1,0 +1,83 @@
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        border: 5px;
+    }
+    .header{
+        display: flex;
+        justify-content: space-between;
+        background:crimson;
+    }
+    .navigation{
+        background-color: crimson;
+    }
+    .logo{
+        margin-top: 2px;
+        padding-left: 30px;
+        font-size: 4em;
+        padding-bottom: 10px;
+        color: aliceblue;
+    }
+    li{
+        list-style: none;
+        display: inline-block;
+        padding: 10px;
+        margin-right: 1px;
+        padding-right: 20px;
+        color: aliceblue;
+    }
+    .hr{
+        color: aliceblue;
+    }
+    .hero{
+        display: flex;
+        gap: 40px;
+    }
+    .hero-text {
+        margin-left: 2px;
+        margin-right: 20px;
+    }
+    .hero-text  h1 {
+        font-size: 2em;
+        background-color: aqua;
+        margin-top: 5px;
+    }
+    .hero-text p{
+    line-height: 1.2em;
+    padding-left: 10px;
+    }
+    .button{
+        border: 1.5px solid rgb(13, 228, 45);
+        height: 10%;
+        width: 50%;
+        margin: 10px 5px ;
+        margin-top: 10px;
+        color: aliceblue;
+        background-color: rgb(244, 164, 6);
+        border-radius: 5px;
+    }
+    .button:hover{
+        background-color:green ;
+    }
+    .button:active{
+        background-color: red;
+    }
+    .image{
+        display:block;
+        max-width: 100%;
+    }
+    .Skills{
+        margin-top: 20px;
+        margin-left: 20px;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        align-items: center;
+        border: 2px solid red;
+        border-radius: 10px;
+        padding: 10px;
+    }
+    .Skills h3{
+        gap: 30px;
+        
+    }

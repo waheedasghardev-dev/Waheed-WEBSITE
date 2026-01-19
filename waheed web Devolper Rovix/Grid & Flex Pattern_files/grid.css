@@ -1,0 +1,78 @@
+/* RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* HEADER → FLEX (row alignment) */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 40px;
+  background: #111;
+  color: white;
+}
+
+.nav {
+  display: flex;
+  gap: 20px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/* HERO → FLEX (2 columns) */
+.hero {
+  display: flex;
+  gap: 40px;
+  padding: 60px 40px;
+  align-items: center;
+}
+
+.hero-text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.hero-image {
+  width: 300px;
+  height: 200px;
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* CARDS → GRID (layout control) */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+  padding: 40px;
+}
+
+/* CARD → FLEX (content alignment) */
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+/* BUTTON → FLEX behavior naturally fits */
+button {
+  align-self: flex-start;
+  padding: 8px 16px;
+  border: none;
+  background: crimson;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}

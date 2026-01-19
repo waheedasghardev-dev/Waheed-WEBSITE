@@ -1,98 +1,98 @@
-<!htmptype>
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <title>Waheed Developer Rovix Services</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body>
-    <header>
-      <nav>
+  <!htmptype>
+  <html>
+    <head>
+      <meta charset="UTF-8" />
+      <title>Waheed Developer Rovix Services</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body>
+      <header>
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Store</li>
+          </ul>
+        </nav>
+        <hr />
+        <h1>Waheed Developer Rovix</h1>
+        <hr/>
+      </header>
+      <section>
+        <h2>Digital MARKETING SERVICES</h2>
+        <div>
+          <div>
+              <strong>SEO</strong>
+          </div>
+          <div>
+              <img src="Images\SEO.jpg" alt="SEO" width="400px" height="300px"/>
+              <br/>
+              <p>Our SEO services help improve your website's visibility on search engines, driving more
+          </div>
+          <div>
+              <span>$500</span>
+              <br>
+              <button type="button"/>Get Our Services Now</button>
+              <br>
+              <hr/>
+          </div>
+        </div>
+      </section>
+      <section>
+          <h2>Web Development SERVICES</h2>
+          <div>
+              <div>
+                  <strong>WEB DEVELOPMENT</strong>
+              </div>
+              <div>
+                  <img src="Images\WhatsApp Image 2025-11-04 at 12.00.49_233df9fb.jpg" alt="WEB DEVELOPMENT" width="400px" height="300px"/>
+                  <br/>
+                  <p>We offer comprehensive web development services to create stunning and functional websites tailored to your needs.</p>
+              </div>
+              <div>
+                  <span>$1000</span>
+                  <br>
+                  <button type="button"/>Get Our Services Now</button>
+                  <br>
+                  <hr/>
+              </div>
+      </section>
+          <h2>App Development Services</h2>
+          <div>
+              <div>
+                  <strong>APP DEVELOPMENT</strong>
+                  <br/>
+              </div>
+              <div>
+                  <img src="Images\WhatsApp Image 2025-09-02 at 19.21.24_f1aa3ba3.jpg" alt="APP DEVELOPMENT" width="400px" height="300px"/>
+                  <br/>
+                  <p>Our app development services deliver high-quality mobile applications for both Android and iOS platforms.</p>
+              </div>
+              <div>
+                  <span>$1500</span>
+                  <br>
+                  <button type="button"/>Get Our Services Now</button>
+                  <br>
+                  <hr/>
+              </div>
+      </section>
+      <section>
+          <h2>Hire Our Services</h2>
+          <p>Looking to hire our services? Contact us
+          today to discuss your project requirements 
+          and get a customized quote.</p>
+              <button type="button"/>Contact Us</button>
+              <hr/>
+      </section>
+      <footer>
+        <h3>Waheed Developer Rovix</h3>
         <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Store</li>
+          <li>Software Developer</li>
+          <li>Web Designer</li>
+          <li>Mobile App Developer</li>
+          <li>UI/UX Designer</li>
+          <li>Full Stack Developer</li>
         </ul>
-      </nav>
-      <hr />
-      <h1>Waheed Developer Rovix</h1>
-      <hr/>
-    </header>
-    <section>
-      <h2>Digital MARKETING SERVICES</h2>
-      <div>
-        <div>
-            <strong>SEO</strong>
-        </div>
-        <div>
-            <img src="Images\SEO.jpg" alt="SEO" width="400px" height="300px"/>
-            <br/>
-            <p>Our SEO services help improve your website's visibility on search engines, driving more
-        </div>
-        <div>
-            <span>$500</span>
-            <br>
-            <button type="button"/>Get Our Services Now</button>
-            <br>
-            <hr/>
-        </div>
-      </div>
-    </section>
-    <section>
-        <h2>Web Development SERVICES</h2>
-        <div>
-            <div>
-                <strong>WEB DEVELOPMENT</strong>
-            </div>
-            <div>
-                <img src="Images\WhatsApp Image 2025-11-04 at 12.00.49_233df9fb.jpg" alt="WEB DEVELOPMENT" width="400px" height="300px"/>
-                <br/>
-                <p>We offer comprehensive web development services to create stunning and functional websites tailored to your needs.</p>
-            </div>
-            <div>
-                <span>$1000</span>
-                <br>
-                <button type="button"/>Get Our Services Now</button>
-                <br>
-                <hr/>
-            </div>
-    </section>
-        <h2>App Development Services</h2>
-        <div>
-            <div>
-                <strong>APP DEVELOPMENT</strong>
-                <br/>
-            </div>
-            <div>
-                <img src="Images\WhatsApp Image 2025-09-02 at 19.21.24_f1aa3ba3.jpg" alt="APP DEVELOPMENT" width="400px" height="300px"/>
-                <br/>
-                <p>Our app development services deliver high-quality mobile applications for both Android and iOS platforms.</p>
-            </div>
-            <div>
-                <span>$1500</span>
-                <br>
-                <button type="button"/>Get Our Services Now</button>
-                <br>
-                <hr/>
-            </div>
-    </section>
-    <section>
-        <h2>Hire Our Services</h2>
-        <p>Looking to hire our services? Contact us
-         today to discuss your project requirements 
-         and get a customized quote.</p>
-            <button type="button"/>Contact Us</button>
-            <hr/>
-    </section>
-    <footer>
-      <h3>Waheed Developer Rovix</h3>
-      <ul>
-        <li>Software Developer</li>
-        <li>Web Designer</li>
-        <li>Mobile App Developer</li>
-        <li>UI/UX Designer</li>
-        <li>Full Stack Developer</li>
-      </ul>
-    </footer>
-  </body>
-</html>
+      </footer>
+    </body>
+  </html>

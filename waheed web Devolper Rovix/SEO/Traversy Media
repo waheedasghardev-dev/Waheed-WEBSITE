@@ -1,0 +1,73 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>About Waheed Developer Rovix</title>
+    </head>
+    <hr/>
+    <body>
+        <h1>My Website</h1>
+        <hr>
+        <section>
+            <article>
+                <h2>Web development</h2>
+                <p>
+                    Waheed Developer Rovix is a skilled web developer known for creating dynamic and user-friendly websites. 
+                    With expertise in HTML, CSS, JavaScript, and various web frameworks, he has successfully delivered numerous
+                    projects that enhance online presence and user engagement. Waheed's attention to detail and commitment to best 
+                    practices ensure that his websites are not only visually appealing but also optimized for performance and accessibility.
+                    In addition to his technical skills, Waheed is a collaborative team player who values client feedback and continuously 
+                    seeks to improve his craft through ongoing learning and adaptation to the latest web development trends.
+                </p>
+                <h2>Search Engine Optimization</h2>
+                <p>
+                    Waheed Developer Rovix is an expert in Search Engine Optimization (SEO), helping websites improve their visibility and ranking on search engines. 
+                    He employs a variety of strategies, including keyword research, on-page optimization, link building, and content creation, to drive organic traffic 
+                    to websites. Waheed stays up-to-date with the latest SEO trends and algorithm changes to ensure that his techniques are effective and compliant with search engine guidelines. 
+                    His analytical approach allows him to monitor performance metrics and adjust strategies accordingly, resulting in improved search rankings and increased online presence for his clients.
+                </p>
+                <h2>Content Management Systems</h2>
+                <p>
+                    <em>Waheed Developer Rovix is proficient in Content Management Systems (CMS)</em> such as WordPress, Joomla, and Drupal. 
+                    He has extensive experience in customizing themes, developing plugins, and managing website content to meet the specific needs of clients. 
+                    Waheed's expertise in <abbr title="content management Systems">CMS</abbr> allows him to create scalable and easily maintainable websites that empower users to manage their own content without requiring extensive technical knowledge. 
+                    He also provides training and support to clients, ensuring they can effectively utilize their CMS for ongoing website management and updates.
+            </article> 
+        </section>
+        <!-- Table -->
+            <thead>
+                <tr>
+                <div><th>Skills</th></div>
+                    <div><th>The experince level</th></div>
+                    <div><th>price</th></div>
+                    <div><th>Duration</th></div>
+                </tr>
+            </thead>
+        <tbody>
+                <tr>
+                    <div><td>Web development</td></div>
+                    <div><td>Expert</td></div>
+                    <div><td>$600</td></div>
+                    <div><td>3 weeks</td></div>
+                    <div><td>Expert</td></div>
+                    <div><td>$500</td></div>
+                    <div><td>2 weeks</td></div>
+                </tr>
+                <tr>
+                    <td>Search Engine Optimization</td>
+                    <td>Advanced</td>
+                    <td>$300</td>
+                    <td>1 week</td>
+                </tr>
+                <tr>
+                    <td>Content Management Systems</td>
+                    <td>Intermediate</td>
+                    <td>$400</td>
+                    <td>10 days</td>
+                </tr>
+                <div style="margin-top:500px"></div>
+        </tbody>
+            
